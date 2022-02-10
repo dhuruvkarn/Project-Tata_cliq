@@ -17,7 +17,7 @@ Tata Cliq is an Indian e-commerce company based in Mumbai, India. It is owned by
 
 ### Home Page
 
-![](C:\Users\karnn\OneDrive\Pictures\Screenshots\Screenshot (77).png)
+![](https://github.com/KeshavManuja/Project-Tata_cliq/blob/main/index.html)
 
 ### Product Page
 ![](C:\Users\karnn\OneDrive\Pictures\Screenshots\Screenshot (126).png)
@@ -58,7 +58,7 @@ Want to run in your local Machine? Great!
 
 ## Creators
 
-- [@Bhanu Solanki](https://github.com/KeshavManuja)
+<!-- - [@Bhanu Solanki](https://github.com/KeshavManuja)
 - [@Anand Gupta](https://github.com/priyabrata)
 - [@Raj Savsani](https://github.com/PrafulDeore)
-- [@Gokul Nair](https://github.com/Himanshu)
+- [@Gokul Nair](https://github.com/Himanshu) -->
