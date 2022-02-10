@@ -1,5 +1,5 @@
 # TataCliq Clone
-Masai construct week Unit 1
+Masai construct week Unit 2
 
 # Technologies Used
 * HTML 
@@ -16,7 +16,7 @@ Masai construct week Unit 1
 * Add items into the cart
 * update items price according to their quantity and promo coupon in the cart
 * procees to pay after entering the dropout details
-* pay by debit card
+* Payment Gatway
 * checkout
 
 ## Challenges:
